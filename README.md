@@ -1,4 +1,4 @@
-# Iskandar Kholmatov
+# Iskandar Kholmat
 
 <h2 align="center">About me</h2>
 <p>Hello there! I'm Iskandar, a computer science student at Western Michigan University. I'm passionate about creating innovative solutions and exploring the latest technologies in the field.</p>
@@ -19,3 +19,11 @@
   </a>
 </p>
 
+<h2 align="center">Technologies :macbook:</h2>
+
+```javascript
+const iskandar = {
+  code: 
+  [Python, Javascript, HTML, CSS, C, R]
+  }
+```
