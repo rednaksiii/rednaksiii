@@ -1,6 +1,7 @@
 # Iskandar Kholmatov
 
 <h2 align="center">About me</h2>
+<p>Hello there! I'm Iskandar, a computer science student at Western Michigan University. I'm passionate about creating innovative solutions and exploring the latest technologies in the field.</p>
 
 <h2 align="center">You can reach me at :alien:</h2>
 
