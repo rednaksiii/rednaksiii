@@ -1,4 +1,4 @@
-# &#128075; I'm Iskandar
+# &#128126; I'm Iskandar
 
 <h2 align="left">&#128187; About me</h2>
 
