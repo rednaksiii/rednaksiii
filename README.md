@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<h2 align="center">Technologies :laptop:</h2>
+<h2 align="center">Technologies :&#128187;:</h2>
 
 ```javascript
 const iskandar = {
