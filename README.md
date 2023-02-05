@@ -12,6 +12,10 @@ const iskandar = {
     "C",
     "R"
   ],
+  technologies: [
+    "TensorFlow"
+    "OpenCV"
+  ],
   education: [
     "Western Michigan University"
   ],
