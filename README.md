@@ -13,7 +13,7 @@ const iskandar = {
     "R"
   ],
   technologies: [
-    "TensorFlow"
+    "TensorFlow",
     "OpenCV"
   ],
   education: [
