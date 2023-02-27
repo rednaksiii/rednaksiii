@@ -10,11 +10,16 @@ const iskandar = {
     "HTML",
     "CSS",
     "C",
-    "R"
+    "R",
+    "Java"
   ],
   technologies: [
     "TensorFlow",
-    "OpenCV"
+    "OpenCV",
+    "Bootstrap"
+     "jQuery",
+     "AJAX",
+     "MySQL"
   ],
   education: [
     "Western Michigan University"
