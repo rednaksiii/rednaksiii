@@ -17,9 +17,9 @@ const iskandar = {
     "TensorFlow",
     "OpenCV",
     "Bootstrap"
-     "jQuery",
-     "AJAX",
-     "MySQL"
+    "jQuery",
+    "AJAX",
+    "MySQL"
   ],
   education: [
     "Western Michigan University"
