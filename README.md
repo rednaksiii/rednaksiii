@@ -16,6 +16,7 @@ const iskandar = {
   technologies: [
     "TensorFlow",
     "OpenCV",
+    "NumPy",
     "Bootstrap"
     "jQuery",
     "AJAX",
