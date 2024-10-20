@@ -9,9 +9,12 @@ const iskandar = {
     "JavaScript",
     "HTML",
     "CSS",
+    "PHP",
     "C",
     "R",
     "Java"
+    "SQL"
+    "Flutter"
   ],
   technologies: [
     "TensorFlow",
@@ -26,7 +29,7 @@ const iskandar = {
     "Western Michigan University"
   ],
   year: [
-    "Sophomore"
+    "Senior"
   ]
 };
 ```
