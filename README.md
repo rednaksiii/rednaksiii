@@ -4,6 +4,12 @@
 
 ```javascript
 const iskandar = {
+  education: {
+    university: "Western Michigan University",
+    degree: "BSc in Computer Science",
+    minor: "Data Science",
+    graduation: "December 2025"
+  },
   code: [
     "Python",
     "JavaScript",
@@ -12,24 +18,21 @@ const iskandar = {
     "PHP",
     "C",
     "R",
-    "Java"
-    "SQL"
+    "Java",
+    "SQL",
     "Flutter"
   ],
   technologies: [
     "TensorFlow",
     "OpenCV",
     "NumPy",
-    "Bootstrap"
+    "Bootstrap",
     "jQuery",
     "AJAX",
-    "MySQL"
-  ],
-  education: [
-    "Western Michigan University"
-  ],
-  year: [
-    "Senior"
+    "MySQL",
+    "Firebase",
+    "Unity",
+    "Blender"
   ]
 };
 ```
