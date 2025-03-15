@@ -17,6 +17,7 @@ const iskandar = {
       "Object Detection",
       "Model Deployment"
     ],
+
     programming: [
       "Python (NumPy, pandas, FastAPI, TensorFlow, PyTorch, Scikit-Learn, XGBoost, OpenCV, spaCy, Transformers, Flask)",
       "Java",
@@ -28,6 +29,7 @@ const iskandar = {
       "R",
       "Assembly"
     ],
+
     ARDevelopment: [
       "VisionOS",
       "RealityKit",
@@ -38,12 +40,14 @@ const iskandar = {
       "MRTK",
       "Blender"
     ],
+
     mobileDevelopment: [
       "Android Studio",
       "Kotlin",
       "Flutter",
       "iOS (Swift, SwiftUI)"
     ],
+    
     tools: [
       "Git",
       "GitHub",
