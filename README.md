@@ -10,31 +10,49 @@ const iskandar = {
     minor: "Data Science",
     graduation: "December 2025"
   },
-  code: [
-    "Python",
-    "JavaScript",
-    "HTML",
-    "CSS",
-    "PHP",
-    "C",
-    "R",
-    "Java",
-    "SQL",
-    "Flutter"
-  ],
-  technologies: [
-    "TensorFlow",
-    "OpenCV",
-    "NumPy",
-    "Bootstrap",
-    "jQuery",
-    "AJAX",
-    "MySQL",
-    "Firebase",
-    "Unity",
-    "Blender"
-  ]
-};
+  skills: {
+    machineLearning: [
+      "NLP",
+      "YOLO",
+      "Object Detection",
+      "Model Deployment"
+    ],
+    programming: [
+      "Python (NumPy, pandas, FastAPI, TensorFlow, PyTorch, Scikit-Learn, XGBoost, OpenCV, spaCy, Transformers, Flask)",
+      "Java",
+      "JavaScript (jQuery, AJAX)",
+      "SQL",
+      "HTML",
+      "CSS (Bootstrap)",
+      "C",
+      "R",
+      "Assembly"
+    ],
+    ARDevelopment: [
+      "VisionOS",
+      "RealityKit",
+      "ARKit",
+      "CoreML",
+      "CreateML",
+      "Unity",
+      "MRTK",
+      "Blender"
+    ],
+    mobileDevelopment: [
+      "Android Studio",
+      "Kotlin",
+      "Flutter",
+      "iOS (Swift, SwiftUI)"
+    ],
+    tools: [
+      "Git",
+      "GitHub",
+      "Firebase",
+      "XAMPP",
+      "WordPress",
+      "Jupyter Notebook"
+    ]
+  }
 ```
 
 <h2 align="left">&#128242; You can reach me at</h2>
