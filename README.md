@@ -18,8 +18,6 @@ const iskandar = {
   degree: "BSc in Computer Science",
   minor: "Data Science",
   graduation: "Dec 2025",
-  interests: ["AI", "AR/XR", "Mobile Dev", "Object Detection", "ResumeTech"],
-  motto: "Build. Test. Learn. Repeat."
 };
 ````
 
