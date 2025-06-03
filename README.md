@@ -1,68 +1,73 @@
-# &#128126; I'm Iskandar
 
-<h2 align="left">&#128187; About me</h2>
+<h1 align="center">Hi there, I'm <span style="color:#ff7f50;">Iskandar 👋</span></h1>
+<h3 align="center">🚀 CS Student • 👨‍💻 Developer • 🎯 Targeting Specialist • 🔬 AI Explorer</h3>
 
-```javascript
+<p align="center">
+  <a href="https://iskdev.netlify.app/" target="_blank">🌐 Portfolio</a> • 
+  <a href="https://www.linkedin.com/in/iskandar-kholmatov-b61ba51ab/" target="_blank">💼 LinkedIn</a> • 
+  <a href="mailto:isk.kholmatov@gmail.com">📧 Email</a>
+</p>
+
+---
+
+## 🧠 About Me
+
+```js
 const iskandar = {
-  education: {
-    university: "Western Michigan University",
-    degree: "BSc in Computer Science",
-    minor: "Data Science",
-    graduation: "December 2025"
-  },
-  skills: {
-    machineLearning: [
-      "NLP",
-      "YOLO",
-      "Object Detection",
-      "Model Deployment"
-    ],
+  university: "Western Michigan University",
+  degree: "BSc in Computer Science",
+  minor: "Data Science",
+  graduation: "Dec 2025",
+  interests: ["AI", "AR/XR", "Mobile Dev", "Object Detection", "ResumeTech"],
+  motto: "Build. Test. Learn. Repeat."
+};
+````
 
-    programming: [
-      "Python (NumPy, pandas, FastAPI, TensorFlow, PyTorch, Scikit-Learn, XGBoost, OpenCV, spaCy, Transformers, Flask)",
-      "Java",
-      "JavaScript (jQuery, AJAX)",
-      "SQL",
-      "HTML",
-      "CSS (Bootstrap)",
-      "C",
-      "R",
-      "Assembly"
-    ],
+---
 
-    ARDevelopment: [
-      "VisionOS",
-      "RealityKit",
-      "ARKit",
-      "CoreML",
-      "CreateML",
-      "Unity",
-      "MRTK",
-      "Blender"
-    ],
+## 💻 Tech Stack
 
-    mobileDevelopment: [
-      "Android Studio",
-      "Kotlin",
-      "Flutter",
-      "iOS (Swift, SwiftUI)"
-    ],
-    
-    tools: [
-      "Git",
-      "GitHub",
-      "Firebase",
-      "XAMPP",
-      "WordPress",
-      "Jupyter Notebook"
-    ]
-  }
-```
+**Languages & Frameworks:**
 
-<h2 align="left">&#128242; You can reach me at</h2>
+* **Python** (TensorFlow, PyTorch, FastAPI, OpenCV, Transformers, XGBoost)
+* **Java**, **C**, **R**, **Assembly**
+* **JavaScript** (jQuery, AJAX), **HTML/CSS**, **SQL**
+* **Kotlin**, **Flutter**, **SwiftUI**
+
+**AI/ML & CV:**
+
+* NLP · YOLO · CoreML · CreateML · Scikit-Learn · spaCy
+* Deployment with FastAPI + ONNX + CoreML
+
+**AR / XR Development:**
+
+* VisionOS · RealityKit · ARKit · Unity · MRTK · Blender
+
+**Tools & Platforms:**
+
+* Git/GitHub · Firebase · WordPress · Jupyter · XAMPP
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iskandarkholmatov&show_icons=true&theme=radical" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iskandarkholmatov&theme=radical" width="47%"/>
+</p>
+
+---
+
+## 📬 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/iskandar-kholmatov-b61ba51ab/"  target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Iskandar Kholmatov's LinkedIn Profile" height="30" width="30">
+  <a href="https://www.linkedin.com/in/iskandar-kholmatov/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="30" />
+  </a>
+  <a href="mailto:iskander.kholmatov@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" width="30"/>
   </a>
 </p>
+
+
+
