@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there, I'm <span style="color:#ff7f50;">Iskandar 👋</span></h1>
-<h3 align="center">🚀 CS Student • 👨‍💻 Developer • 🎯 Targeting Specialist • 🔬 AI Explorer</h3>
+<h3 align="center">🚀 CS Student • 👨‍💻 Developer • 🔬 AI Explorer</h3>
 
 <p align="center">
   <a href="https://iskdev.netlify.app/" target="_blank">🌐 Portfolio</a> • 
