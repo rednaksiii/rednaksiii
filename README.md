@@ -25,25 +25,28 @@ const iskandar = {
 
 ## 💻 Tech Stack
 
-**Languages & Frameworks:**
+- **Machine Learning & AI**  
+  Object Detection · YOLO · NLP · TensorFlow · PyTorch · OpenCV · FastAPI · Transformers · spaCy · NumPy · pandas
 
-* **Python** (TensorFlow, PyTorch, FastAPI, OpenCV, Transformers, XGBoost)
-* **Java**, **C**, **R**, **Assembly**
-* **JavaScript** (jQuery, AJAX), **HTML/CSS**, **SQL**
-* **Kotlin**, **Flutter**, **SwiftUI**
+- **Frontend & Web**  
+  Next.js · React · TypeScript · TailwindCSS · Framer Motion · JavaScript · HTML/CSS
 
-**AI/ML & CV:**
+- **AR & Mixed Reality**  
+  VisionOS · RealityKit · ARKit · Unity
 
-* NLP · YOLO · CoreML · CreateML · Scikit-Learn · spaCy
-* Deployment with FastAPI + ONNX + CoreML
+- **Mobile Development**  
+  Flutter · Kotlin · Swift
 
-**AR / XR Development:**
+- **Backend**  
+  Node.js · SQL · GitHub · FastAPI
 
-* VisionOS · RealityKit · ARKit · Unity · MRTK · Blender
+- **Additional Tools & Languages**  
+  Java · C · R · Git
 
-**Tools & Platforms:**
 
-* Git/GitHub · Firebase · WordPress · Jupyter · XAMPP
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,opencv,react,nextjs,typescript,tailwind,javascript,nodejs,mysql,git,github,java,c,r,flutter,kotlin,swift,unity" />
+</p>
+
 
 ---
 
