@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there, I'm <span style="color:#ff7f50;">Iskandar 👋</span></h1>
-<h3 align="center">🚀 CS Student • 👨‍💻 Developer • 🔬 AI Explorer</h3>
+<h3 align="center">🚀 CS Student • 👨‍💻 Developer • 🎯 Targeting Specialist • 🔬 AI Explorer</h3>
 
 <p align="center">
   <a href="https://iskdev.netlify.app/" target="_blank">🌐 Portfolio</a> • 
@@ -51,10 +51,10 @@ const iskandar = {
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iskandarkholmatov&show_icons=true&theme=radical" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iskandarkholmatov&theme=radical" width="47%"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rednaksiii&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rednaksiii&theme=tokyonight" alt="mystreak"/>
+
 
 ---
 
@@ -68,6 +68,3 @@ const iskandar = {
     <img src="https://img.icons8.com/color/48/000000/gmail.png" width="30"/>
   </a>
 </p>
-
-
-
