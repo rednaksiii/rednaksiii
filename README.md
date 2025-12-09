@@ -147,15 +147,11 @@ class IskandarKholmatov:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=rednaksiii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rednaksiii&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rednaksiii&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=rednaksiii&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
