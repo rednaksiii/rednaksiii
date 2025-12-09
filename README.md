@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Iskandar Kholmatov
+# 👋 Hi, I'm Iskandar
 
 ### 🎓 Computer Science Graduate | 🤖 AI/ML Engineer | 💻 Full-Stack Developer
 
