@@ -16,9 +16,9 @@
 ## 🚀 About Me
 
 ```python
-class IskandarKholmatov:
+class Iskandar:
     def __init__(self):
-        self.name = "Iskandar Kholmatov"
+        self.name = "Iskandar"
         self.education = {
             "degree": "B.S. Computer Science",
             "minor": "Data Science",
