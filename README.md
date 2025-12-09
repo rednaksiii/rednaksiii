@@ -41,17 +41,6 @@ class IskandarKholmatov:
 
 ---
 
-## 💼 Professional Experience
-
-| Role | Company | Duration | Key Technologies |
-|------|---------|----------|------------------|
-| **Research Assistant** | Western Michigan University | Aug 2025 - Present | Unity, Meta Quest 3, VR, AI Education |
-| **Computer Vision Engineer** | Taffi AI | Jul 2025 - Present | YOLOv8, FastAPI, Azure AI, Docker, RAG |
-| **Beta Testing Intern** | Series AI | Dec 2024 - Apr 2025 | UX/UI, AI Testing |
-| **Full-Stack Developer** | Blum GmbH & Aluframe | Feb 2021 - Sep 2024 | JavaScript, PHP, React |
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -93,59 +82,7 @@ class IskandarKholmatov:
 
 </div>
 
----
 
-## 🌟 Featured Projects
-
-### 🕵️ [Real vs Fake Job Posting Classifier](https://github.com/rednaksiii)
-**Machine Learning | Fraud Detection** • Nov 2025 - Dec 2025
-- Achieved **97% ROC-AUC** with ensemble learning, **24% above baseline**
-- Built production FastAPI ML pipeline with TF-IDF, SVD, and GridSearchCV
-- Deployed real-time analysis tool using T3 Stack
-
-**Tech:** `Python` `FastAPI` `scikit-learn` `TF-IDF` `Machine Learning`
-
----
-
-### 📱 [SaveYouMedia - Telegram Bot](https://github.com/rednaksiii)
-**Automation | Async Programming** • May 2025
-- High-performance bot supporting YouTube, Instagram, and TikTok downloads
-- Handles **20 concurrent downloads** using ThreadPoolExecutor and AsyncIO
-- Implemented subscription-gating, cloud upload fallback, and smart routing
-
-**Tech:** `Python` `AsyncIO` `yt-dlp` `Telegram Bot API` `Cloud Storage`
-
----
-
-### 🧠 [AI-Powered Resume Screener](https://github.com/rednaksiii)
-**NLP | Full-Stack** • Feb 2025 - Apr 2025
-- Resume-job matching system using BERT and XGBoost with NLP scoring
-- Responsive React + TypeScript frontend with TailwindCSS and Framer Motion
-- Automated candidate evaluation and ranking pipeline
-
-**Tech:** `React` `TypeScript` `FastAPI` `BERT` `XGBoost` `NLP`
-
----
-
-### 🥽 [Anatomy Lab Mixed-Reality App](https://github.com/rednaksiii)
-**AR/VR | Computer Vision** • Oct 2024 - Apr 2025
-- Unity AR prototype for **Apple Vision Pro** with AI anatomical recognition
-- Integrated OpenAI chatbot for real-time anatomy assistance
-- Collaborated with medical faculty for accurate content
-
-**Tech:** `Unity` `Apple Vision Pro` `RealityKit` `ARKit` `OpenAI` `CV`
-
----
-
-### ✋ [Real-Time Sign Language Detection](https://github.com/rednaksiii)
-**Computer Vision | Deep Learning** • SpartaHack 8 Hackathon (Jan 2023)
-- CNN for real-time ASL alphabet recognition (30+ FPS)
-- Trained on **87k+ gesture images** using TensorFlow and OpenCV
-- Improved communication accessibility through gesture classification
-
-**Tech:** `Python` `TensorFlow` `OpenCV` `CNN` `Computer Vision`
-
----
 
 ## 📊 GitHub Activity
 
