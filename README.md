@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Iskandar
 
-### 🎓 Computer Science Graduate | 🤖 AI/ML Engineer | 💻 Full-Stack Developer
+### 🎓 Computer Science Graduate | 🏗️ Backend & AI Engineer | ⚙️ Enterprise Systems Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-iskdev.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://iskdev.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iskandar-kholmatov-b61ba51ab/)
@@ -24,7 +24,7 @@ class Iskandar:
             "minor": "Data Science",
             "university": "Western Michigan University",
             "graduation": "December 2025",
-            "gpa": "3.47"
+            "gpa": "3.52"
         }
         self.currently = "Seeking Full-Time Opportunities"
         self.roles = ["AI/ML Engineer", "Software Developer", "Computer Vision Engineer"]
