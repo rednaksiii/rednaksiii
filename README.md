@@ -80,7 +80,4 @@ class Iskandar:
 
 ---
 
-## 📫 Let’s Connect
-
-I’m open to full-time roles in **Backend Engineering**, **Enterprise Systems**, and **AI-driven application development**.
 
