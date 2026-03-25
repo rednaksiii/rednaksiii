@@ -30,11 +30,6 @@ class Iskandar:
             "Enterprise Application Development (.NET / XAF)",
             "AI-Driven Systems"
         ]
-        self.roles_interested = [
-            "Backend Engineer",
-            "Software Engineer",
-            "Enterprise Systems Developer"
-        ]
         self.languages_spoken = ["Russian (Native)", "English (Fluent)"]
 ````
 
